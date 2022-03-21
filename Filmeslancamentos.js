@@ -1,5 +1,5 @@
 # ProjetoGazinFilms
-/*esse é o componente filmespopulares*/
+/*esse é o componente filmeslancamentos*/
 
 import React from "react";
 import {View,Text,FlatList,StyleSheet,ImageBackground,TouchableOpacity} from 'react-native';
