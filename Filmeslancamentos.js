@@ -15,7 +15,7 @@ const filmespopulares = [
     {
         id: 2,
         img: require('../imgs/alertavermelho.jpg'),
-        title: 'Malcolm&Marie',
+        title: 'Alerta Vermelho',
         ano: '2021',
     },
 
